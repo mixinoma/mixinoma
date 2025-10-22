@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Ultra
 
-<!--
-**mixinoma/mixinoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build elegant and intuitive interfaces using modern **frontend frameworks**.  
+Clean code, smooth animations, and great UX are my favorite trio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 About
+Front-end developer who loves crafting responsive, accessible, and well-structured web applications.  
+I’m always experimenting with better design systems and cleaner component patterns.
+
+---
+
+### 🧠 Current Focus
+- Deepening my understanding of **React**, **Next.js**, and **TypeScript**  
+- Exploring design philosophy and performance-first architecture  
+- Learning how small UI details create big user impact  
+
+---
+
+### 🛠️ Toolbox
+`React` · `Next.js` · `TypeScript` · `TailwindCSS` · `Styled Components` · `Vite`
+
+---
+
+### 🪄 Philosophy
+> “Minimal design isn’t less — it’s *intentional*.”
+
+---
+
+### 📬 Connect
+[Portfolio](#) · [LinkedIn](#) · [Twitter](#)
+
+---
+
+#### ✳️ Crafted with focus & curiosity
