@@ -1,5 +1,5 @@
 
-I really hate Abstraction, I will absolutely spend hours trying to see how things works underneath.
+Taking my time understanding the hidden layer
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,mongodb,supabase" />
